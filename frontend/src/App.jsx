@@ -11,7 +11,7 @@ function App() {
     <>
       <div>
 
-          <p> welome to netlify </p>
+          <p> welome to netlify ang github </p>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>

@@ -12,8 +12,9 @@ function App() {
     <>
       <div>
 
-          <p> welcome to netlify and github </p>
+          
           <h1> welcome to git hub</h1>
+          <p> welcome to netlify and github </p>
           <Home/>
 
         <a href="https://vite.dev" target="_blank">
